@@ -1,0 +1,29 @@
+{
+  "name": "project_react",
+  "version": "1.0.0",
+  "description": "This is a react based project",
+  "homepage": "https://github.com/PremVakiti18/Project_React#readme",
+  "bugs": {
+    "url": "https://github.com/PremVakiti18/Project_React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PremVakiti18/Project_React.git"
+  },
+  "license": "ISC",
+  "author": "Prem Kumar",
+  "type": "commonjs",
+  "main": false,
+  "scripts": {
+    "start" : "parcel index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "browserslist":[
+    "last 2 chrome versions"
+  ]
+}
